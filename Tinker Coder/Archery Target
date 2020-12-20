@@ -1,0 +1,12 @@
+import turtle
+
+
+Archery_Target = turtle.Turtle()
+Archery_Target.fillcolor(("#000000"))
+Archery_Target.dot(160)
+Archery_Target.color(("#33ffff"))
+Archery_Target.dot(120)
+Archery_Target.color(("#ff0000"))
+Archery_Target.dot(80)
+Archery_Target.color(("#ffff33"))
+Archery_Target.dot(40)
